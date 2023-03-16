@@ -1,2 +1,2 @@
 # admission
-i have created a website for admission with facilities
+I have created a website for admission form for joining as web developer 
